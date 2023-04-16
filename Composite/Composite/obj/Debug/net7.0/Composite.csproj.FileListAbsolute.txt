@@ -1,0 +1,15 @@
+C:\Users\Mustafa\source\repos\Composite\Composite\bin\Debug\net7.0\Composite.exe
+C:\Users\Mustafa\source\repos\Composite\Composite\bin\Debug\net7.0\Composite.deps.json
+C:\Users\Mustafa\source\repos\Composite\Composite\bin\Debug\net7.0\Composite.runtimeconfig.json
+C:\Users\Mustafa\source\repos\Composite\Composite\bin\Debug\net7.0\Composite.dll
+C:\Users\Mustafa\source\repos\Composite\Composite\bin\Debug\net7.0\Composite.pdb
+C:\Users\Mustafa\source\repos\Composite\Composite\obj\Debug\net7.0\Composite.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\Composite\Composite\obj\Debug\net7.0\Composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\source\repos\Composite\Composite\obj\Debug\net7.0\Composite.AssemblyInfoInputs.cache
+C:\Users\Mustafa\source\repos\Composite\Composite\obj\Debug\net7.0\Composite.AssemblyInfo.cs
+C:\Users\Mustafa\source\repos\Composite\Composite\obj\Debug\net7.0\Composite.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\Composite\Composite\obj\Debug\net7.0\Composite.dll
+C:\Users\Mustafa\source\repos\Composite\Composite\obj\Debug\net7.0\refint\Composite.dll
+C:\Users\Mustafa\source\repos\Composite\Composite\obj\Debug\net7.0\Composite.pdb
+C:\Users\Mustafa\source\repos\Composite\Composite\obj\Debug\net7.0\Composite.genruntimeconfig.cache
+C:\Users\Mustafa\source\repos\Composite\Composite\obj\Debug\net7.0\ref\Composite.dll

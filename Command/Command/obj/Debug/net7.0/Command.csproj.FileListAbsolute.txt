@@ -1,0 +1,15 @@
+C:\Users\Mustafa\source\repos\Command\Command\bin\Debug\net7.0\Command.exe
+C:\Users\Mustafa\source\repos\Command\Command\bin\Debug\net7.0\Command.deps.json
+C:\Users\Mustafa\source\repos\Command\Command\bin\Debug\net7.0\Command.runtimeconfig.json
+C:\Users\Mustafa\source\repos\Command\Command\bin\Debug\net7.0\Command.dll
+C:\Users\Mustafa\source\repos\Command\Command\bin\Debug\net7.0\Command.pdb
+C:\Users\Mustafa\source\repos\Command\Command\obj\Debug\net7.0\Command.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\Command\Command\obj\Debug\net7.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\source\repos\Command\Command\obj\Debug\net7.0\Command.AssemblyInfoInputs.cache
+C:\Users\Mustafa\source\repos\Command\Command\obj\Debug\net7.0\Command.AssemblyInfo.cs
+C:\Users\Mustafa\source\repos\Command\Command\obj\Debug\net7.0\Command.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\Command\Command\obj\Debug\net7.0\Command.dll
+C:\Users\Mustafa\source\repos\Command\Command\obj\Debug\net7.0\refint\Command.dll
+C:\Users\Mustafa\source\repos\Command\Command\obj\Debug\net7.0\Command.pdb
+C:\Users\Mustafa\source\repos\Command\Command\obj\Debug\net7.0\Command.genruntimeconfig.cache
+C:\Users\Mustafa\source\repos\Command\Command\obj\Debug\net7.0\ref\Command.dll
