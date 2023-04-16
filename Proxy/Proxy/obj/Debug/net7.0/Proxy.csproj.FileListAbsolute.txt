@@ -1,0 +1,15 @@
+C:\Users\Mustafa\source\repos\Proxy\Proxy\bin\Debug\net7.0\Proxy.exe
+C:\Users\Mustafa\source\repos\Proxy\Proxy\bin\Debug\net7.0\Proxy.deps.json
+C:\Users\Mustafa\source\repos\Proxy\Proxy\bin\Debug\net7.0\Proxy.runtimeconfig.json
+C:\Users\Mustafa\source\repos\Proxy\Proxy\bin\Debug\net7.0\Proxy.dll
+C:\Users\Mustafa\source\repos\Proxy\Proxy\bin\Debug\net7.0\Proxy.pdb
+C:\Users\Mustafa\source\repos\Proxy\Proxy\obj\Debug\net7.0\Proxy.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\Proxy\Proxy\obj\Debug\net7.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\source\repos\Proxy\Proxy\obj\Debug\net7.0\Proxy.AssemblyInfoInputs.cache
+C:\Users\Mustafa\source\repos\Proxy\Proxy\obj\Debug\net7.0\Proxy.AssemblyInfo.cs
+C:\Users\Mustafa\source\repos\Proxy\Proxy\obj\Debug\net7.0\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\Proxy\Proxy\obj\Debug\net7.0\Proxy.dll
+C:\Users\Mustafa\source\repos\Proxy\Proxy\obj\Debug\net7.0\refint\Proxy.dll
+C:\Users\Mustafa\source\repos\Proxy\Proxy\obj\Debug\net7.0\Proxy.pdb
+C:\Users\Mustafa\source\repos\Proxy\Proxy\obj\Debug\net7.0\Proxy.genruntimeconfig.cache
+C:\Users\Mustafa\source\repos\Proxy\Proxy\obj\Debug\net7.0\ref\Proxy.dll
