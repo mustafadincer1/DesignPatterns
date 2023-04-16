@@ -1,0 +1,15 @@
+C:\Users\Mustafa\source\repos\Adapter\Adapter\bin\Debug\net7.0\Adapter.exe
+C:\Users\Mustafa\source\repos\Adapter\Adapter\bin\Debug\net7.0\Adapter.deps.json
+C:\Users\Mustafa\source\repos\Adapter\Adapter\bin\Debug\net7.0\Adapter.runtimeconfig.json
+C:\Users\Mustafa\source\repos\Adapter\Adapter\bin\Debug\net7.0\Adapter.dll
+C:\Users\Mustafa\source\repos\Adapter\Adapter\bin\Debug\net7.0\Adapter.pdb
+C:\Users\Mustafa\source\repos\Adapter\Adapter\obj\Debug\net7.0\Adapter.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\Adapter\Adapter\obj\Debug\net7.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\source\repos\Adapter\Adapter\obj\Debug\net7.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\Mustafa\source\repos\Adapter\Adapter\obj\Debug\net7.0\Adapter.AssemblyInfo.cs
+C:\Users\Mustafa\source\repos\Adapter\Adapter\obj\Debug\net7.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\Adapter\Adapter\obj\Debug\net7.0\Adapter.dll
+C:\Users\Mustafa\source\repos\Adapter\Adapter\obj\Debug\net7.0\refint\Adapter.dll
+C:\Users\Mustafa\source\repos\Adapter\Adapter\obj\Debug\net7.0\Adapter.pdb
+C:\Users\Mustafa\source\repos\Adapter\Adapter\obj\Debug\net7.0\Adapter.genruntimeconfig.cache
+C:\Users\Mustafa\source\repos\Adapter\Adapter\obj\Debug\net7.0\ref\Adapter.dll
