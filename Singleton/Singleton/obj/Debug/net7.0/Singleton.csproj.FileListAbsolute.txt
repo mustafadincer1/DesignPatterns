@@ -1,0 +1,15 @@
+C:\Users\Mustafa\source\repos\Singleton\Singleton\bin\Debug\net7.0\Singleton.exe
+C:\Users\Mustafa\source\repos\Singleton\Singleton\bin\Debug\net7.0\Singleton.deps.json
+C:\Users\Mustafa\source\repos\Singleton\Singleton\bin\Debug\net7.0\Singleton.runtimeconfig.json
+C:\Users\Mustafa\source\repos\Singleton\Singleton\bin\Debug\net7.0\Singleton.dll
+C:\Users\Mustafa\source\repos\Singleton\Singleton\bin\Debug\net7.0\Singleton.pdb
+C:\Users\Mustafa\source\repos\Singleton\Singleton\obj\Debug\net7.0\Singleton.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\Singleton\Singleton\obj\Debug\net7.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\source\repos\Singleton\Singleton\obj\Debug\net7.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\Mustafa\source\repos\Singleton\Singleton\obj\Debug\net7.0\Singleton.AssemblyInfo.cs
+C:\Users\Mustafa\source\repos\Singleton\Singleton\obj\Debug\net7.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\Singleton\Singleton\obj\Debug\net7.0\Singleton.dll
+C:\Users\Mustafa\source\repos\Singleton\Singleton\obj\Debug\net7.0\refint\Singleton.dll
+C:\Users\Mustafa\source\repos\Singleton\Singleton\obj\Debug\net7.0\Singleton.pdb
+C:\Users\Mustafa\source\repos\Singleton\Singleton\obj\Debug\net7.0\Singleton.genruntimeconfig.cache
+C:\Users\Mustafa\source\repos\Singleton\Singleton\obj\Debug\net7.0\ref\Singleton.dll
